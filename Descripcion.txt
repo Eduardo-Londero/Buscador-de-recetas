@@ -1,0 +1,7 @@
+App de recetas
+
+Aplicacion que al seleccionar una categoria consulta una API
+y las muestra en pantalla.
+
+podemos ver las recetas,(consumiendo la api nuevamente), ademas podemos
+cerrar la receta o agregarlo a favorito usando localstorage.
